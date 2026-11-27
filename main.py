@@ -4,7 +4,7 @@
 # the same bytes on every run.
 import os
 
-LINE = "Every night of my childhood, Mom counted us at the front door — one, two, three, four — then locked it. Last night she counted five, locked the door, and smiled like she had finally gotten the number right."
+LINE = "Every night of my childhood, Mom counted us at the front door \u2014 one, two, three, four \u2014 then locked it. Last night she counted five, locked the door, and smiled like she had finally gotten the number right."
 
 
 def write_entry(text, out_dir):
